@@ -63,6 +63,6 @@ Mentors:
  </li>
  </dt>
  <h2> Programmer</h2> 
- Azadeh Kooshesh
+ Azadeh Kooshesh &
  Tom Krueger
  
